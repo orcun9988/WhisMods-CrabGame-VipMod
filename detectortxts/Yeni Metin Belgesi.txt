@@ -1,0 +1,49 @@
+1 
+[HarmonyPatch(typeof(MonoBehaviourPublicGataInefObInUnique), "Method_Private_Void_GameObject_Boolean_Vector3_Quaternion_0")]
+
+x
+Method_Private_Void_GameObject_Boolean_Vector3_Quaternion_PDM_0   -20
+get_Il2cpptype
+get_effectseed
+get_Instance
+start
+tagfx
+
+
+2 [HarmonyPatch(typeof(MonoBehaviourPublicCSDi2UIInstObUIloDiUnique), "Method_Private_Void_0")]
+x
+addPlayerToLobby
+Awake
+BanPlayer
+ChangeColor
+CloseLobby
+StartLobby
+set_servername
+setLobby
+GameEnded
+
+
+3 [HarmonyPatch(typeof(MonoBehaviourPublicVesnUnique), "Method_Private_Void_0")]
+x
+get_IL2CPPTYPE
+get_snowspeed
+set_snowspeed
+Method_Private_Void_PDM_0-48
+
+
+4 [HarmonyPatch(typeof(MonoBehaviourPublicObjomaOblogaTMObseprUnique), "Method_Public_Void_PDM_2")]
+x
+Method_Private_Void_PDM_0-58
+get_maxplayers
+get_lobbytype
+set_joinmidgame
+set_servernamefield
+start
+updateservername
+
+5 [HarmonyPatch(typeof(MonoBehaviourPublicTeplUnique), "Method_Private_Void_PDM_32")]
+x
+start
+slowupdate
+set_playertext
+Method_Private_Void_PDM_0-104

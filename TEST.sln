@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrabHack_WhiskyPaid", "TEST\CrabHack_WhiskyPaid.csproj", "{562480DD-24F3-4E11-B63D-DAC02AA04D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{562480DD-24F3-4E11-B63D-DAC02AA04D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562480DD-24F3-4E11-B63D-DAC02AA04D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562480DD-24F3-4E11-B63D-DAC02AA04D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562480DD-24F3-4E11-B63D-DAC02AA04D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A3B4550-CCBA-44EB-B477-63B8C675C2DB}
+	EndGlobalSection
+EndGlobal
